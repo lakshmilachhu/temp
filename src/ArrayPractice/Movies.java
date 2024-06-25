@@ -4,6 +4,7 @@ public class Movies
 {
 	public static void main(String[] args)
 	{
+		//lachu
 		String[] name= {"Appu","Abhi","Arasu","Akash","Anjaniputhra"}; //if are going intialize values direclty to the array, we should't give array size.
 //		for(int i=0;i<name.length;i++)
 //		{
